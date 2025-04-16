@@ -1,40 +1,26 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Sri's Portfolio
 
-## Getting Started
+Welcome to my personal portfolio website! This project showcases my skills, achievements, and the projects I've worked on. I'm a passionate full-stack engineer with a focus on backend development, system design, and solving complex problems. My goal is to continuously learn and contribute to innovative technologies.
 
-First, run the development server:
+## About Me
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Name**: Srinivasan Gopalan
+- **Profession**: Full-Stack Engineer (Backend-focused)
+- **Website**: Coming soon
+- **GitHub**: https://github.com/kaarthik17
+- **LinkedIn**: https://www.linkedin.com/in/srinivasan-gopalan-079b2832
+- **Email**: srinivasang34@yahoo.com
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Key Skills
+- **Backend**: Node.js, .NET, SQL/NoSQL databases
+- **Frontend**: React, Angular, HTML, CSS, Tailwind CSS
+- **Cloud**: Azure, Google Cloud (Fundamentals)
+- **DevOps**: Docker, Kubernetes, CI/CD, Jenkins
+- **Version Control**: Git, GitHub, GitLab
+- **System Design**: Designing scalable systems, Microservices architecture
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Achievements
+- **Awards**: 3 ACE Awards, TechStar Award at Accenture
+- **Education**: Executive General Management Program from IIM Calcutta, B.E. in Computer Science from Anna University
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-# devportfolio
->>>>>>> c50ca6c8e682e5577d62040f4491337c166b7f1a
+---
