@@ -10,6 +10,9 @@ export const metadata = {
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="en" className="dark">
+      <head>
+        <link rel="icon" type="image/x-icon" href="/sriicon.ico" />
+      </head>
       <body className="bg-white text-black dark:bg-gray-900 dark:text-white">
         <Navbar />
         <main className="p-4">{children}</main>
