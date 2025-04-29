@@ -4,7 +4,7 @@ export default function HomePage() {
       <h1 className="text-4xl font-bold mb-6">Hi, I&apos;m Sri Gopalan</h1>
 
       <p className="text-lg text-gray-700 dark:text-gray-300 mb-6">
-        A passionate Full-Stack Engineer with 10+ years of experience building scalable, secure, and high-performance software systems. Recently returned from a sabbatical, I’m refocusing my expertise towards backend-heavy roles in top tech companies.
+        A passionate Full-Stack Engineer with 10+ years of experience building scalable, secure, and high-performance software systems. Recently returned from a sabbatical, I&apos;m refocusing my expertise towards backend-heavy roles in top tech companies.
       </p>
 
       <section className="mb-10">
